@@ -8,6 +8,7 @@ public class Compartir {
 		System.out.println("Aixo no rutlla");
 		System.out.println("Modificat a les 19:06");
 		System.out.println("Modificat a les 19:30");
+		System.out.println("Modificat a les 19:38");
 
 	}
 
