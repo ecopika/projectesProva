@@ -7,7 +7,7 @@ public class Compartir {
 		System.out.println("Hey hola companys, soc en Nuss!");
 		System.out.println("Aixo no rutlla");
 		System.out.println("Modificat a les 19:06");
-		
+		System.out.println("Modificat a les 19:30");
 
 	}
 
