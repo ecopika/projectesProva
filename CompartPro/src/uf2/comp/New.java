@@ -1,6 +1,6 @@
 package uf2.comp;
 
 public class New {
-	int itnintintintintffffffffffffffffffitnitnitnitntinaa;
+	int itnintingtintintffffffffffffffffffitnitnitnitntinaa;
 
 }
