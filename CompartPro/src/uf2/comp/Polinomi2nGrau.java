@@ -35,5 +35,13 @@ public class Polinomi2nGrau {
 		}
 		else return 0;
 	}
+	
+	public double solucio1(){
+		return (-b-Math.sqrt(calcularDiscriminant())/2*a);
+	}
+	
+	public double solucio2(){
+		return (-b+Math.sqrt(calcularDiscriminant())/2*a);
+	}
 
 }
