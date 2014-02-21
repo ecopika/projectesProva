@@ -21,5 +21,19 @@ public class Polinomi2nGrau {
 		return a+"x² + "+b+"x + "+c;
 		
 	}
+	
+	public boolean arrelsReals(){
+		return calcularDiscriminant()>=0;
+	}
+	
+	public int nombreSolucions(){
+		if(calcularDiscriminant()==0){
+			return 1;
+		}
+		else if(calcularDiscriminant()>0){
+			return 2;
+		}
+		else return 0;
+	}
 
 }
