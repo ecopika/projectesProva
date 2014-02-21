@@ -1,6 +1,6 @@
 package uf2.comp;
 
-public class Compartir {
+public class Polinomi2nGrau {
 	
 	public static void main(String[] args){
 		System.out.println("Hola com va?");
