@@ -10,5 +10,16 @@ public class Polinomi2nGrau {
 		this.b = b;
 		this.c = c;
 	}
+	
+	public int calcularDiscriminant(){
+		
+		return (b*b)-(4*a*c);
+	}
+	
+	public String toString(){
+		
+		return a+"x² + "+b+"x + "+c ;
+		
+	}
 
 }
