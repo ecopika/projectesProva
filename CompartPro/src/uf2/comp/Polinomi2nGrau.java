@@ -18,7 +18,7 @@ public class Polinomi2nGrau {
 	
 	public String toString(){
 		
-		return a+"x² + "+b+"x + "+c ;
+		return a+"x² + "+b+"x + "+c;
 		
 	}
 
