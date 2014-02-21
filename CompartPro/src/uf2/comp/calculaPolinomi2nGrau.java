@@ -11,6 +11,8 @@ public class calculaPolinomi2nGrau {
 		
 		System.out.println(pol.toString());
 		
+		pol.solucio1();
+		pol.solucio2();
 		System.out.println("Introdueix a");
 		a=sc.nextInt();
 		
@@ -19,6 +21,8 @@ public class calculaPolinomi2nGrau {
 		
 		System.out.println("Introdueix c");
 		c=sc.nextInt();
+		
+	
 
 	}
 
