@@ -10,7 +10,7 @@ public class calculaPolinomi2nGrau {
 		int a,b,c;
 		
 		System.out.println(pol.toString());
-		
+		System.out.println("Nombre de solucions:"+pol.nombreSolucions());
 		pol.solucio1();
 		pol.solucio2();
 		System.out.println("Introdueix a");
